@@ -1,6 +1,6 @@
 {
-  "name": "DaisyX",
-  "description": "?",
+  "name": "Batee3",
+  "description": "Asisten Grup Bot Telegram",
   "keywords": [
     "telegram",
     "Daisy",
@@ -8,7 +8,7 @@
     "telegram-DaisyX",
     "fuck-TG"
   ],
-  "repository": "https://github.com/TeamDaisyX/DaisyX",
+  "repository": "https://github.com/GunxProject/Batee3",
   "website": "daisyproject.studio",
   "success_url": "t.me/DaisyXUpdates",
   "buildpacks": [
